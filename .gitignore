@@ -1,9 +1,11 @@
-/Binaries
+*/Binaries
 
-/Intermediate
+*/Intermediate
 
-/Build
+*/Build
 
-/DreivedDataCache
+*/DreivedDataCache
 
-/Saved
+*/Saved
+
+*.db
